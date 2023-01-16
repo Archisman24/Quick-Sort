@@ -7,8 +7,7 @@ public class QuickSort {
         int n=sc.nextInt();
         int arr[]=new int[n];
         System.out.println("Enter the  Elements:");
-        for(i=0;i<n;i++)8
-        
+        for(i=0;i<n;i++)2
         arr[i]=sc.nextInt();
         quickSort(arr, 0, n-1);  
         System.out.println("\n The sorted array is: \n");  
